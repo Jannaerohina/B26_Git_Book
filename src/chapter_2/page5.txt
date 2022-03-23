@@ -5,3 +5,6 @@ Created at GitHub
 Hello, 
 
 Git class
+
+
+Changes made
